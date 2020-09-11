@@ -2,7 +2,7 @@
 
 ## Desenvolvimento do jogo genius da década de 90, utilizando a plataforma Arduino.
  
-### Materiais Ultilizadoa:
+### Materiais Ultilizados:
     
     * 4 leds de 5mm cores (Amarelo, Azul, Verde, Vermelho)
     * 4 soquetes para les de 5mm
